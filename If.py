@@ -3,7 +3,21 @@ import time;
 Value1 = 1002;
 Value2 = 1200;
 
+
+UiX = "Brian";
+UiXe = "Brian"
+
+_UiX = "Araby"
 """"""
+
+if UiX is UiXe :
+    print('OoO');
+
+if _UiX is UiX :
+    print('OoO')
+else :
+    print('( ͠❛ ͜ʖ͠❛ )')
+
 
 if Value1 < Value2 :
     print('Hello World');
